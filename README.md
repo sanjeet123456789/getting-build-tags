@@ -4,4 +4,4 @@
 
 
 
-[![Gitter chat](https://gitter.im/sanjeet12345679/git-readme-badge.png)](https://gitter.im/sanjeet12345679/git-readme-badge)
+[![Gitter chat](https://badges.gitter.im/sanjeet123456789/gitter.png)](https://gitter.im/sanjeet12345679/git-readme-badge)
