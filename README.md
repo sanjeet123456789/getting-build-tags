@@ -9,4 +9,4 @@
 [![sanjeet's github stats](https://github-readme-stats.vercel.app/api?username=sanjeet123456789&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/sanjeet123456789/getting-build-tags/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet123456789&hide=javascript,html&layout=compact)](https://github.com/sanjeet123456789/sanjeet123456789/getting-build-tags/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet123456789&hide=javascript,html&layout=compact)](https://github.com/sanjeet123456789/getting-build-tags/)
