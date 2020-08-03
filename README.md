@@ -10,3 +10,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeet123456789&hide=javascript,html&layout=compact)](https://github.com/sanjeet123456789/getting-build-tags/)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=MovingToWeb)
