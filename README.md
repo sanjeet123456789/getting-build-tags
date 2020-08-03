@@ -6,4 +6,4 @@
 
 [![Gitter chat](https://badges.gitter.im/sanjeet123456789/gitter.png)](https://gitter.im/sanjeet12345679/git-readme-badge)
 
-[![sanjeet's github stats](https://github-readme-stats.vercel.app/api?username=sanjeet123456789)](https://github.com/sanjeet123456789/getting-build-tags/)
+[![sanjeet's github stats](https://github-readme-stats.vercel.app/api?username=sanjeet123456789&hide=contribs,prs)](https://github.com/sanjeet123456789/getting-build-tags/)
